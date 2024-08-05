@@ -46,10 +46,6 @@ Full-Stack | MERN | React Native | EXPO
         <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" style="max-width: 100%;">
         <br>MongoDB
       </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs" width="48" height="48" style="max-width: 100%;">
-        <br>Nodejs
-      </td>
     </tr>
     <tr>
       <td align="center" width="96">
@@ -73,12 +69,12 @@ Full-Stack | MERN | React Native | EXPO
         <br>PostgreSQL
       </td>
       <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Microsoft Azure" width="65" height="65" style="max-width: 100%;">
-        <br>Microsoft Azure
-      </td>
-      <td align="center" width="96">
         <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="65" height="65" style="max-width: 100%;">
         <br>Firebase
+      </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs" width="48" height="48" style="max-width: 100%;">
+        <br>Nodejs
       </td>
     </tr>
   </tbody>
