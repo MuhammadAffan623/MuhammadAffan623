@@ -48,6 +48,7 @@
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muhammadaffan623&show_icons=true&locale=en&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="muhammadaffan623" width="300"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadaffan623&show_icons=true&locale=en&layout=compact&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="muhammadaffan623" width="300"/>
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadaffan623&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="muhammadaffan623" width="300"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadaffan623&show_icons=true&locale=en&layout=compact&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="muhammadaffan623" width="300"/>
 </p>
