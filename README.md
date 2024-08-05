@@ -1,13 +1,12 @@
 ##  👨‍💻 Muhammad Affan
 
 ### Senior Web & Mobile App Engineer
-*Full-Stack | MERN | React Native | EXPO *
+Full-Stack | MERN | React Native | EXPO 
 
-I am a Full-Stack Web and Mobile App Developer with over 2+ years of industrial experience. I specialize in React, Express, Python, and the MERN stack. I love turning ideas into real-world applications.
 <p>
-- 🔭 I’m currently working on **Web & Mobile Application** 
+- 🔭 I’m currently working on Web & Mobile Application 
 </p><p>
-- 💬 Ask me about **any Web Solution** 
+- 💬 Ask me about any Web Solution 
 </p><p>
 - 📫 How to reach me: [affanmuhammad623@gmail.com](mailto:affanmuhammad623@gmail.com)
 </p><p>
