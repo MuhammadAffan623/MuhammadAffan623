@@ -1,6 +1,6 @@
 ##  👨‍💻 Muhammad Affan
 
-### Senior Web & Mobile App Engineer
+### Web & Mobile App Engineer
 Full-Stack | MERN | React Native | EXPO 
 
 <p>
